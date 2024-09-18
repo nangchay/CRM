@@ -1,1 +1,9 @@
-streamlit
+pandas==2.2.2
+Requests==2.32.3
+streamlit==1.35.0
+streamlit_navigation_bar==3.3.0
+supabase==2.5.1
+Unidecode==1.3.8
+tenacity
+xlrd
+openpyxl
